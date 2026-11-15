@@ -7,7 +7,7 @@ This repository contains our team's submissions for the hackathon problem statem
 ```
 .
 ├── problem1_submission/   # Problem 1: Detection of Backdoor Attacks using HPCs
-└── problem2_submission/   # Problem 2: <short title of problem 2>
+└── problem2_submission/   # Problem 2: Black Box Adversarial Attack on CNN
 ```
 
 Each problem is self-contained in its own folder, with its own `README.md`
