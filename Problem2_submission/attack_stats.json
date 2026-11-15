@@ -1,0 +1,12 @@
+{
+  "success_rate": 1.0,
+  "n_success": 1000,
+  "n_total": 1000,
+  "n_already_misclassified": 0,
+  "mean_linf_0_1": 0.01879454404115677,
+  "max_linf_0_1": 0.11262258887290955,
+  "mean_l2": 0.9110662937164307,
+  "total_queries": 12657,
+  "queries_per_image": 12.657,
+  "elapsed_seconds": 688.8869452476501
+}

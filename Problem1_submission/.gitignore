@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+tests/_synthetic_eval.csv
+.ipynb_checkpoints/
+UNDERSTANDING.md
+tests/_synthetic_eval.csv

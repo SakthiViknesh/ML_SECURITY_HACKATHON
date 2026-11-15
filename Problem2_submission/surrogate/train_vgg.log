@@ -1,0 +1,5 @@
+device: cpu
+[vgg] epoch 1/3  loss=1.3255  test_acc=0.6265  time=773.3s
+[vgg] epoch 2/3  loss=0.7896  test_acc=0.7534  time=840.4s
+[vgg] epoch 3/3  loss=0.5697  test_acc=0.8320  time=441.7s
+saved to vgg.pt

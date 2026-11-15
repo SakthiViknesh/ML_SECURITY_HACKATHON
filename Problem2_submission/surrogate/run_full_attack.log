@@ -1,0 +1,15 @@
+C:\Users\SAKTHI VIKNESH\Python310\lib\site-packages\torch\jit\_serialization.py:176: FutureWarning: `torch.jit.load` is deprecated. Please switch to `torch.export`.
+  warnings.warn(
+loaded 2 surrogates
+already-misclassified clean images: 0 / 1000
+eps=0.0157  newly solved=480  total solved=480/1000
+eps=0.0314  newly solved=413  total solved=893/1000
+eps=0.0471  newly solved=83  total solved=976/1000
+eps=0.0627  newly solved=19  total solved=995/1000
+eps=0.0941  newly solved=4  total solved=999/1000
+eps=0.1255  newly solved=1  total solved=1000/1000
+attack finished in 688.9s, queries=11657
+FINAL success rate: 1.0000 (1000/1000)
+mean L_inf (0-1 scale): 0.0188  mean L2: 0.9111
+total target-model queries: 12657  (12.7 per image)
+saved stats to attack_stats.json

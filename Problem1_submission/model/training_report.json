@@ -1,0 +1,20 @@
+{
+  "n_training_rows": 800,
+  "feature_columns": [
+    "cache-references",
+    "cycles",
+    "LLC-loads",
+    "cacheref_per_cycle",
+    "llcload_per_cycle",
+    "llcload_per_cacheref"
+  ],
+  "threshold": 0.29359056372404047,
+  "cross_validation": {
+    "cv_folds": 5,
+    "target_fpr": 0.02,
+    "achieved_fpr_on_pooled_held_out_clean": 0.02,
+    "pooled_score_mean": 0.1004467601358997,
+    "pooled_score_std": 0.08023597492082432
+  },
+  "full_fit_flagged_fraction": 0.0225
+}
